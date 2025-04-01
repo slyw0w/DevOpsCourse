@@ -1,0 +1,3 @@
+replicaCount: 25
+service:
+  type: ClusterIP
