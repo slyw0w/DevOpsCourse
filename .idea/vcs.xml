@@ -3,6 +3,8 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/DevOps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/session13/advanced-devops" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/session13/docker-elk" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/session8/ansible-demo" vcs="Git" />
   </component>
 </project>
